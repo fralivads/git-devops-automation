@@ -10,3 +10,9 @@ Este é um projeto de exemplo para demonstar o uso básico do Git e GitHub.
 - Markdown
 
 ## 📂 Estrutura do Projeto
+
+## Adicionando Conteúdo remotamente
+
+---
+
+## Como Trabalhar com o Git
